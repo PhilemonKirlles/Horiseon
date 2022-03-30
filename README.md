@@ -3,7 +3,7 @@
 
 # Horiseon
 ## Purpose
-Digital marketing .
+A websit for Digital marketing.
 
 ## Built With
 * HTML
