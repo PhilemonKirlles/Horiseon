@@ -1,4 +1,4 @@
-/* global*/
+/* styling global */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,6 +8,8 @@
 body {
   background-color: #d9dcd6;
 }
+/* end global styling */
+
 /* styling the headder*/
 .header {
   padding: 20px;
@@ -51,6 +53,8 @@ a {
 p {
   font-size: 16px;
 }
+/* end styling the headder*/
+
 /* styling the hero */
 .hero {
   height: 800px;
@@ -60,6 +64,7 @@ p {
   background-size: cover;
   background-position: center;
 }
+/* end styling the hero */
 
 /* styling benefits panel */
 .benefits {
@@ -121,6 +126,7 @@ p {
   max-width: 150px;
 }
 /* end of benefits panel */
+
 /*styling content class and its  <article>s */
 
 .float-left {
@@ -191,6 +197,7 @@ p {
   font-size: 36px;
 }
 /* end of <article>s */
+
 /* styling the footer*/
 .footer {
   padding: 30px;
@@ -203,3 +210,4 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+/* end styling the footer*/
